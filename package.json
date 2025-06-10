@@ -1,6 +1,6 @@
 {
   "name": "agent-aegis",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "AgentAegis is a lightweight plugin providing full-lifecycle runtime protection for OpenClaw.",
   "main": "src/index.ts",
   "scripts": {
